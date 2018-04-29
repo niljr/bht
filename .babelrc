@@ -1,0 +1,12 @@
+{
+    "presets": [
+        "react",
+        "node7",
+        "stage-3"
+    ],
+    "plugins": [
+        "transform-decorators-legacy",
+        "transform-class-properties",
+        "babel-plugin-transform-class-properties"
+    ]
+}
